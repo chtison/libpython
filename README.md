@@ -1,3 +1,0 @@
-# LIBPYTHON
-
-![](misc/libpython.png)
